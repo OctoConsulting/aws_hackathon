@@ -1,2 +1,2 @@
-# aws_hackathon
+#AWSHackForGood
 TeamOcto AWS Hack for good
